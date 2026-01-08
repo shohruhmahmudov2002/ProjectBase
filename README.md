@@ -537,15 +537,6 @@ Ushbu loyiha [MIT License](LICENSE.txt) ostida tarqatiladi.
 
 ---
 
-## 👨‍💻 Muallif
-
-**Bahodirov Behruz**
-
-- Telegram: [@bbahodirov](https://bbahodirov.t.me/)
-- GitHub: [@BakhodirovDev](https://github.com/BakhodirovDev)
-
----
-
 ## ⭐ Qo'llab-quvvatlash
 
 Agar loyiha sizga foydali bo'lsa, ⭐ yulduzcha qo'ying!
